@@ -15,7 +15,7 @@ I have knowledge in various technologies, including:
 You can connect with me on Instagram and WhatsApp:
 
 - **Instagram:** hector_caravaca -> https://www.instagram.com/hector_caravaca/
-- **WhatsApp:** +506 8333 9684 -> wa.me/50683339684
+- **WhatsApp:** +506 8333 9684 -> https://wa.me/50683339684
 
 <!---
 hectorcaravacavargas/hectorcaravacavargas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
