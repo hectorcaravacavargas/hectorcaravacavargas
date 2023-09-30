@@ -23,7 +23,8 @@ You can connect with me on:
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hectorcaravacavargas&show_icons=true&locale=en&layout=compact" alt="hectorcaravacavargas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hectorcaravacavargas&show_icons=true&locale=en&layout=compact
+" alt="hectorcaravacavargas" />
 </p>
 
 <!---
