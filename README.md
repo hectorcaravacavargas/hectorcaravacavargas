@@ -22,9 +22,7 @@ You can connect with me on:
 <a href= "https://wa.me/50683339684" target = "blank">  <img src = "https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/whatsapp.svg" alt="hector_caravaca" width="40" height="40"/> </a>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hectorcaravacavargas&show_icons=true&locale=en&layout=compact" alt = "hectorcaravacavargas" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hectorcaravacavargas&show_icons=true&theme=dark&locale=en&layout=compact" alt="hectorcaravacavargas" /></p>
 
 <!---
 hectorcaravacavargas/hectorcaravacavargas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
