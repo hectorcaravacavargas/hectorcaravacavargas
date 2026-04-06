@@ -1,12 +1,12 @@
-# Héctor Caravaca Vargas 👋
+# Hi, I'm Héctor Caravaca 👋
 
-### Frontend Developer · Estudiante de Ingeniería en Computación · ITCR
+### Frontend Developer · Computer Engineering Student · ITCR, Costa Rica
 
-Apasionado por construir interfaces web funcionales y bien estructuradas. Actualmente buscando práctica profesional en el área de desarrollo frontend.
+I'm passionate about building functional and well-structured web interfaces. Currently looking for a frontend internship opportunity.
 
 ---
 
-## 🛠️ Stack tecnológico
+## 🛠️ Tech Stack
 
 **Frontend**
 React · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS · Chakra UI · Astro
@@ -14,36 +14,36 @@ React · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS · Chakra UI 
 **Backend & BaaS**
 Supabase · Firebase
 
-**Herramientas**
+**Tools**
 Git · GitHub · Jira · Vercel · Swagger UI
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Featured Projects
 
-### 📅 [bookme-fe](https://github.com/lunalabscr/bookme-fe) — Sistema de agenda
-Sistema de gestión de agenda desarrollado para un cliente externo real en el curso Proyecto de Programación del ITCR. Panel de administración, módulo de colaboradores, servicios y facturación.
+### 📅 [bookme-fe](https://github.com/lunalabscr/bookme-fe) — Appointment Management System
+Frontend for a real client appointment system built as part of a university project at ITCR. Includes an admin panel, collaborator management, services, and billing modules.
 `React` `TypeScript` `Chakra UI` `Swagger UI`
 
-### 🌴 [tours-website](https://github.com/hectorcaravacavargas/tours-website) — Sitio web de tours
-Sitio web para empresa de turismo local con diseño responsive y sistema de reservas. Proyecto freelance con coordinación directa con el cliente.
+### 🌴 [tours-website](https://github.com/hectorcaravacavargas/tours-website) — Tour Company Website
+Full website for a local tourism company with responsive design and a booking system. Freelance project with direct client coordination.
 `React` `Tailwind CSS` `JavaScript`
 
-### 🏔️ [blog](https://github.com/hectorcaravacavargas/blog) — Blog turístico de Zermatt
-Blog informativo sobre la ciudad de Zermatt con secciones de actividades y sitios turísticos. Deployado en GitHub Pages.
+### 🏔️ [blog](https://github.com/hectorcaravacavargas/blog) — Zermatt Travel Blog
+Informational blog about the city of Zermatt featuring activities, tourist spots, and a city guide. Deployed on GitHub Pages.
 `HTML5` `CSS3` `JavaScript` `GitHub Pages`
 
-### 🍽️ [Food-Hub](https://github.com/hectorcaravacavargas/Food-Hub) — Plataforma de restaurantes
-Interfaz web para simulación de plataforma de restaurantes con maquetación semántica y diseño responsive.
+### 🍽️ [Food-Hub](https://github.com/hectorcaravacavargas/Food-Hub) — Restaurant Platform UI
+Web interface for a restaurant platform simulation with semantic markup and responsive design.
 `HTML5` `CSS3`
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 - LinkedIn: [linkedin.com/in/hectorcaravacavargas](https://www.linkedin.com/in/hectorcaravacavargas/)
 - Email: hcaravacavargas@gmail.com
 
 ---
 
-📍 Costa Rica · Disponible para práctica profesional a partir de julio 2025
+📍 Costa Rica · Available for internships from July 2025
