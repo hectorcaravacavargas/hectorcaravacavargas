@@ -1,30 +1,49 @@
-## About Me
+# Héctor Caravaca Vargas 👋
 
-Hello! I'm Hector Caravaca Vargas, a first-year student pursuing a degree in Computer Engineering at the Technological Institute of Costa Rica, San Carlos campus. I have a deep passion for programming and software development, and I'm excited about the opportunities for growth in this exciting field.
+### Frontend Developer · Estudiante de Ingeniería en Computación · ITCR
 
-### My Skills
+Apasionado por construir interfaces web funcionales y bien estructuradas. Actualmente buscando práctica profesional en el área de desarrollo frontend.
 
-I have knowledge in various technologies, including:
-<p align= "left"> 
-  <a href= "https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href = "https://cplusplus.com" target = "_blank" rel = "noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src = "https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png" alt="kotlin" width="40" height="40"/> </a> 
-</p>
+---
 
-### Connect with Me
+## 🛠️ Stack tecnológico
 
-You can connect with me on:
+**Frontend**
+React · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS · Chakra UI · Astro
 
-<p align = "left"> 
-<a href= "https://www.instagram.com/hector_caravaca/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hector_caravaca" height="40" width="40" /> </a>
-<a href= "https://wa.me/50683339684" target = "blank">  <img src = "https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/whatsapp.svg" alt="hector_caravaca" width="40" height="40"/> </a>
-</p>
+**Backend & BaaS**
+Supabase · Firebase
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hectorcaravacavargas&show_icons=true&theme=dark&locale=en&layout=compact" alt="hectorcaravacavargas" /></p>
+**Herramientas**
+Git · GitHub · Jira · Vercel · Swagger UI
 
-<!---
-hectorcaravacavargas/hectorcaravacavargas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 Proyectos destacados
+
+### 📅 [bookme-fe](https://github.com/lunalabscr/bookme-fe) — Sistema de agenda
+Sistema de gestión de agenda desarrollado para un cliente externo real en el curso Proyecto de Programación del ITCR. Panel de administración, módulo de colaboradores, servicios y facturación.
+`React` `TypeScript` `Chakra UI` `Swagger UI`
+
+### 🌴 [tours-website](https://github.com/hectorcaravacavargas/tours-website) — Sitio web de tours
+Sitio web para empresa de turismo local con diseño responsive y sistema de reservas. Proyecto freelance con coordinación directa con el cliente.
+`React` `Tailwind CSS` `JavaScript`
+
+### 🏔️ [blog](https://github.com/hectorcaravacavargas/blog) — Blog turístico de Zermatt
+Blog informativo sobre la ciudad de Zermatt con secciones de actividades y sitios turísticos. Deployado en GitHub Pages.
+`HTML5` `CSS3` `JavaScript` `GitHub Pages`
+
+### 🍽️ [Food-Hub](https://github.com/hectorcaravacavargas/Food-Hub) — Plataforma de restaurantes
+Interfaz web para simulación de plataforma de restaurantes con maquetación semántica y diseño responsive.
+`HTML5` `CSS3`
+
+---
+
+## 📫 Contacto
+
+- LinkedIn: [linkedin.com/in/hectorcaravacavargas](https://www.linkedin.com/in/hectorcaravacavargas/)
+- Email: hcaravacavargas@gmail.com
+
+---
+
+📍 Costa Rica · Disponible para práctica profesional a partir de julio 2025
